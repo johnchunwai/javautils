@@ -85,7 +85,7 @@
                         <argument>--module-path</argument> <!-- or -p  -->
                         <!--&lt;!&ndash; automatically creates the modulepath using all project dependencies,-->
                         <!--also adding the project build directory &ndash;&gt;-->
-                        <argument>mod</argument>
+                        <argument>mod;C:\Users\wai\.m2\repository\mysql\mysql-connector-java\5.1.40\</argument>
                         <!--<modulepath/>-->
                         <argument>--module</argument> <!-- or -m -->
                         <argument>com.jc.javautilsmain/${main.class}</argument>
